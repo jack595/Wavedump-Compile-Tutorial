@@ -1,9 +1,9 @@
 # Wavedump-Compile-Tutorial
-This tutorial will help you how compile CAEN wavedump package and you can do customized modification. Really thanks for the helps from Matteo from CAEN Support Division.I hope this tutorial will help the people who is fresh about C package compiling.
+This tutorial will show you how to compile the CAEN wavedump package and how to do customized modifications. Really, thanks for the help from Matteo from the CAEN Support Division.I hope this tutorial will help people who are new to C package compilation.
 
-## Detailed procedure is following:
-Install Visual Studio, the following operation is under visual studio software
-0. open the Wavedump project in the C:\Program Files\CAEN\Digitizers\WaveDump\build folder.
+## The detailed procedure is the following:
+Install Visual Studio, The following operation is under visual studio software
+0. Open the Wavedump project in the C:\Program Files\CAEN\Digitizers\WaveDump\build folder.
 1.	Open the project proprieties window and select Debug x64 configuration
 2.	In C/C++ -> General -> Additional Include Directories add C:\Program Files\CAEN\Digitizers\WaveDump\compile\inc
 3.	In Linker -> General -> Additional Library Directories add C:\Program Files\CAEN\Digitizers\WaveDump\compile\lib\x64
@@ -18,6 +18,13 @@ Install Visual Studio, the following operation is under visual studio software
 5. Compile the package![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/416f4636-ee28-4e32-ad18-fdfcd62d9980)
 6. After compiling, the exe and dependency can be found in folder "Debug"
 ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/f57d273e-4efd-4c19-8d1c-5db21946c78c)
+7. Get the released version by switch the compile mode
+![GetReleaseVersion](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/f28dcbf9-ceaa-46b7-853c-9b21601660c5)
+8. Copy the files from the folder C:\Program Files\CAEN\Digitizers\WaveDump\compile\bin\x64 to the released files
+![ReplaceFiles](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/2a42131a-772b-4892-bd01-14399c343473)
+9. For example, replace the files in this folder, and it will work
+![Snipaste_2023-11-28_23-59-36](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/74cdb5fa-ef27-4cbb-a5bc-200c21decc05)
+
 
 
 
