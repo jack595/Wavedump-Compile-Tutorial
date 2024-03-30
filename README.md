@@ -25,7 +25,7 @@ Install Visual Studio, The following operation is under visual studio software
 9. For example, replace the files in this folder, and it will work
 ![Snipaste_2023-11-28_23-59-36](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/74cdb5fa-ef27-4cbb-a5bc-200c21decc05)
 
-* The released version in the `released` folder is modified by me. I just added an option to change the saving path of wavedump. You need to add one line like `PATH D:/Data/` in WaveDumpConfig.txt. Follow the step 8 and 9. And things will be done well.
+* The released version in the `released` folder is modified by me. I just added an option to change the saving path of wavedump and showing the total event number instantly. You need to add one line like `PATH D:/Data/` in WaveDumpConfig.txt. Follow the step 8 and 9. And things will be done well.
 ![Snipaste_2023-11-29_00-08-09](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/2f656651-e36e-4a91-93fc-4c87badfc969)
 
 
