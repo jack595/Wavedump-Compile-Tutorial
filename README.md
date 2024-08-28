@@ -16,7 +16,7 @@ Install Visual Studio, The following operation is under visual studio software
    ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/5b6913e6-1d9b-4c8f-abbc-68f42a0cb287)
 4. Adding Linker(Step 3 and 4):
    ![Adding Linker](https://github.com/user-attachments/assets/0827d637-3434-428d-8c3b-8786eb7414f0)
-6. Attention!!! Here is an extra amend for the include header. We don't need to list the specific path and only to list the file name. Because we have added the dependency in linker.
+6. **Attention!!!Cannot be Omitted** Here is an extra amend for the include header. We don't need to list the specific path and only to list the file name. Because we have added the dependency in linker.
 ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/3b17ebd9-fada-4290-9dd9-3af9422a3e77)
 7. Compile the package![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/416f4636-ee28-4e32-ad18-fdfcd62d9980)
 8. After compiling, the exe and dependency can be found in folder "Debug"
