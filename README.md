@@ -11,8 +11,9 @@ Install Visual Studio, The following operation is under visual studio software
 
 ## I take some snapshoots for the demostration:
 1. ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/243acdd8-93ae-4d88-8233-104ef08528aa)
-2. ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/3fde3aa0-642b-48fb-a1f2-546edcc04340)
-3. ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/5b6913e6-1d9b-4c8f-abbc-68f42a0cb287)
+2. Adding Properties(Step 2)
+   ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/3fde3aa0-642b-48fb-a1f2-546edcc04340)
+   ![image](https://github.com/jack595/Wavedump-Compile-Tutorial/assets/31855564/5b6913e6-1d9b-4c8f-abbc-68f42a0cb287)
 4. Adding Linker(Step 3 and 4):
    ![Adding Linker](https://github.com/user-attachments/assets/0827d637-3434-428d-8c3b-8786eb7414f0)
 6. Attention!!! Here is an extra amend for the include header. We don't need to list the specific path and only to list the file name. Because we have added the dependency in linker.
